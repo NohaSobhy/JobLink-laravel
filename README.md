@@ -76,9 +76,4 @@ This project was proudly shared on LinkedIn to showcase the skills and teamwork 
 
 Check out the LinkedIn post for more insights and comments from our instructor and peers:
 
-[LinkedIn Post: ITI Full Stack PHP Job Board Project](https://www.linkedin.com/posts/amera-alaa_webdevelopment-laravel-frontend-activity-7234569906443190273-P7d9?utm_source=share&utm_medium=member_desktop)
-
-
-[LinkedIn Post: ITI Full Stack PHP Job Board Project]([https://www.linkedin.com/in/amira-username/posts/project-job-board-ITI-fullstack-php](https://www.linkedin.com/posts/amera-alaa_webdevelopment-laravel-frontend-activity-7234569906443190273-P7d9?utm_source=share&utm_medium=member_desktop))
-
-
+[LinkedIn Post: ITI Full Stack PHP Job Board Project](https://www.linkedin.com/posts/noha-sobhy_excited-to-share-our-hr-system-project-activity-7245154999964495874-M3_a?utm_source=share&utm_medium=member_ios)
