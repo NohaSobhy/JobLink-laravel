@@ -76,4 +76,4 @@ This project was proudly shared on LinkedIn to showcase the skills and teamwork 
 
 Check out the LinkedIn post for more insights and comments from our instructor and peers:
 
-[LinkedIn Post: ITI Full Stack PHP Job Board Project](https://www.linkedin.com/posts/noha-sobhy_excited-to-share-our-hr-system-project-activity-7245154999964495874-M3_a?utm_source=share&utm_medium=member_ios)
+[LinkedIn Post: ITI Full Stack PHP Job Board Project](https://www.linkedin.com/posts/noha-sobhy_webdevelopment-laravel-php-activity-7234596079445409793-VkYV?utm_source=share&utm_medium=member_ios)
